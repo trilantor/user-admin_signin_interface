@@ -1,7 +1,3 @@
-Pardon, gözümden kaçmış ya da tablo/biçimlendirme kaymış! Son kısımdaki adımların ve test bilgilerinin tablosunun bozulmadan, tam olması gerektiği gibi Markdown kod bloğunun *içine* düzgünce yazılmış halini aşağıda veriyorum.
-
-Bunu doğrudan kopyalayıp depondaki `README.md` dosyasına yapıştırabilirsin:
-
 ```markdown
 # 🖥️ Kullanıcı Giriş ve Yönetim Arayüzü (C# Windows Forms)
 
