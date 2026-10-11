@@ -1,4 +1,3 @@
-```markdown
 # 🖥️ Kullanıcı Giriş ve Yönetim Arayüzü (C# Windows Forms)
 
 👩‍💻 **Proje Sahibi**
@@ -13,13 +12,11 @@ Bu proje, modern C# Windows Forms standartları ve güvenli giriş doğrulama ma
 
 🛠️ **Temel Teknoloji Yığını (Tech Stack)**
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Forms" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-</p>
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 
 | Kategori | Teknoloji | Kullanım Alanı |
 | :--- | :--- | :--- |
@@ -50,27 +47,3 @@ Projenin bilgisayarınızda çalıştırılabilmesi için izlenmesi gereken adı
 1. **Depoyu Klonlayın:**
    ```bash
    git clone [https://github.com/trilantor/user-admin_signin_interface.git](https://github.com/trilantor/user-admin_signin_interface.git)
-
-```
-
-2. **Projeyi Açın:**
-* Visual Studio'yu çalıştırın ve `username-password` klasöründeki çözüm dosyasını (`.sln` veya `.slnx`) açın.
-
-
-3. **Derleyin ve Çalıştırın:**
-* Üst menüden **Start** butonuna basarak veya `F5` tuşunu kullanarak uygulamayı test edin.
-
-
-
----
-
-### 🔑 Test Bilgileri
-
-| Kullanıcı Adı | Şifre | Yetki Seviyesi |
-| --- | --- | --- |
-| `admin` | `12345` | Yönetici Hesabı |
-| `user` | `12345` | Standart Kullanıcı Hesabı |
-
-```
-
-```
